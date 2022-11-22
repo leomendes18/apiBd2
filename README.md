@@ -22,6 +22,6 @@ Ferramentas utilizadas na construção da api
   
 ## Equipe:
 
-Diuari Pessoa Bezerra
-Leonardo Mendes Monteiro
-Jose Igor Venancio de Albuquerque
+* Diuari Pessoa Bezerra
+* Leonardo Mendes Monteiro
+* Jose Igor Venancio de Albuquerque
