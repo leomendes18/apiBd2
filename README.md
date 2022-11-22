@@ -13,10 +13,11 @@ $ node index.js
 após inicializar servidor deve se abrir o index.html para vê o projeto 
 
 Ferramentas utilizadas na construção da api
-
-Express
-Sequelize
-PostgreSQL + PostGIS
+ 
+<li>Express</li>
+<li>Sequelize</li>
+<li>PostgreSQL + PostGIS</li>
+  
 </ul>
   
 ## Equipe:
