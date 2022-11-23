@@ -17,7 +17,14 @@ Ferramentas utilizadas na construção da api
 <li>Express</li>
 <li>Sequelize</li>
 <li>PostgreSQL + PostGIS</li>
-  
+
+### criar arquivo .env e substituir com as informções do seu banco 
+PG_HOST = 
+PG_PORT = 
+PG_USERNAME = 
+PG_PASSWORD = 
+PG_DATABASE = 
+API_PORT = 
 </ul>
   
 ## Equipe:
