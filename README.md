@@ -19,11 +19,17 @@ Ferramentas utilizadas na construção da api
 <li>PostgreSQL + PostGIS</li>
 
 ### criar arquivo .env e substituir com as informções do seu banco 
-PG_HOST = 
-PG_PORT = 
-PG_USERNAME = 
-PG_PASSWORD = 
+<br>
+PG_HOST =
+ <br>
+PG_PORT =
+ <br>
+PG_USERNAME =
+ <br>
+PG_PASSWORD =
+ <br>
 PG_DATABASE = 
+ <br>
 API_PORT = 
 </ul>
   
